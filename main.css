@@ -1,6 +1,6 @@
 h1{
 	font-size: 40px;
-	background: rgb(134,181,100);
+	background: rgb(255,61,127);
 	font-family: comic;
 	text-align: center;
     
@@ -20,5 +20,8 @@ a{
 
 }
 body{
-	background: rgb(158,225,84);
+	background: rgb(255,132,124);
+}
+.hyperlink{
+	text-align: center;
 }
